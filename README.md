@@ -1,0 +1,1 @@
+JSON with information about currencies: codes (ISO 4217), the names, grapheme (symbols) and formatting.
