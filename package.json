@@ -1,8 +1,8 @@
 {
-  "name": "display-format-currency",
+  "name": "currency-format",
   "version": "1.0.0",
   "description": "JSON with information about currencies: codes (ISO 4217), the names, grapheme (symbols) and formatting.",
   "author": "Aleksey Pikhtovnikov <a.pihtovnikov@xsolla.com>",
-  "repository": "git@github.com:xsolla/display-format-currency.git",
+  "repository": "git@github.com:xsolla/currency-format.git",
   "license": "MIT"
 }
