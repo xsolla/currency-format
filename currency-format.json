@@ -1,1248 +1,1958 @@
 {
   "AED": {
     "name": "UAE Dirham",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.إ",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": null
   },
   "AFN": {
     "name": "Afghani",
-    "symbol": "؋",
-    "uniqSymbol": "؋",
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "؋",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": "؋",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "ALL": {
     "name": "Lek",
-    "symbol": "L",
-    "uniqSymbol": "Lek",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "L",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Lek",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "AMD": {
     "name": "Armenian Dram",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": {
+      "grapheme": "դր.",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "դր.",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "ANG": {
     "name": "Netherlands Antillean Guilder",
-    "symbol": "ƒ",
-    "uniqSymbol": "NAƒ",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "ƒ",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "NAƒ",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "AOA": {
     "name": "Kwanza",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "ARS": {
     "name": "Argentine Peso",
-    "symbol": "$",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "AUD": {
     "name": "Australian Dollar",
-    "symbol": "$",
-    "uniqSymbol": "A$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "A$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "AWG": {
     "name": "Aruban Florin",
-    "symbol": "ƒ",
-    "uniqSymbol": "Afl",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "ƒ",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Afl",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "AZN": {
     "name": "Azerbaijanian Manat",
-    "symbol": "₼",
-    "uniqSymbol": "₼",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₼",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₼",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "BAM": {
     "name": "Convertible Mark",
-    "symbol": "KM",
-    "uniqSymbol": "KM",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "KM",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "KM",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "BBD": {
     "name": "Barbados Dollar",
-    "symbol": "$",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "BDT": {
     "name": "Taka",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "BGN": {
     "name": "Bulgarian Lev",
-    "symbol": "лв",
-    "uniqSymbol": "лв",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "лв",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "лв",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "BHD": {
     "name": "Bahraini Dinar",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 3,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.ب",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".د.ب",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "BIF": {
     "name": "Burundi Franc",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "BMD": {
     "name": "Bermudian Dollar",
-    "symbol": "$",
-    "uniqSymbol": "BD$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "BD$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "BND": {
     "name": "Brunei Dollar",
-    "symbol": "$",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "BOB": {
     "name": "Boliviano",
-    "symbol": "Bs.",
-    "uniqSymbol": "Bs.",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "Bs.",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Bs.",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "BOV": {
     "name": "Mvdol",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "BRL": {
     "name": "Brazilian Real",
-    "symbol": "R$",
-    "uniqSymbol": "R$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "R$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "R$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "BSD": {
     "name": "Bahamian Dollar",
-    "symbol": "$",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "BTN": {
     "name": "Ngultrum",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "BWP": {
     "name": "Pula",
-    "symbol": "P",
-    "uniqSymbol": "P",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "P",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "P",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "BYR": {
     "name": "Belarussian Ruble",
-    "symbol": "p.",
-    "uniqSymbol": "p.",
     "fractionSize": 0,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "p.",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "p.",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "BZD": {
     "name": "Belize Dollar",
-    "symbol": "BZ$",
-    "uniqSymbol": "BZ$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "BZ$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "BZ$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "CAD": {
     "name": "Canadian Dollar",
-    "symbol": "$",
-    "uniqSymbol": "CA$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "CA$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "CDF": {
     "name": "Congolese Franc",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "CHE": {
     "name": "WIR Euro",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "CHF": {
     "name": "Swiss Franc",
-    "symbol": "CHF",
-    "uniqSymbol": "CHF",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "CHF",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "CHF",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "CHW": {
     "name": "WIR Franc",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "CLF": {
     "name": "Unidad de Fomento",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 4,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "CLP": {
     "name": "Chilean Peso",
-    "symbol": "$",
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "CNY": {
     "name": "Yuan Renminbi",
-    "symbol": "元",
-    "uniqSymbol": "元",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "元",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "元",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "COP": {
     "name": "Colombian Peso",
-    "symbol": "$",
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "COU": {
     "name": "Unidad de Valor Real",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "CRC": {
     "name": "Cost Rican Colon",
-    "symbol": "₡",
-    "uniqSymbol": "₡",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₡",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₡",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "CUC": {
     "name": "Peso Convertible",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "CUP": {
     "name": "Cuban Peso",
-    "symbol": "$MN",
-    "uniqSymbol": "$MN",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$MN",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "$MN",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "CVE": {
     "name": "Cabo Verde Escudo",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "CZK": {
     "name": "Czech Koruna",
-    "symbol": "Kč",
-    "uniqSymbol": "Kč",
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "Kč",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Kč",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "DJF": {
     "name": "Djibouti Franc",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "DKK": {
     "name": "Danish Krone",
-    "symbol": "kr",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "kr",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "DOP": {
     "name": "Dominican Peso",
-    "symbol": "RD$",
-    "uniqSymbol": "RD$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "RD$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "RD$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "DZD": {
     "name": "Algerian Dinar",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.ج",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".د.ج",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "EEK": {
     "name": "Estonian Kroon",
-    "symbol": "kr",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "kr",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "EGP": {
     "name": "Egyptian Pound",
-    "symbol": "£",
-    "uniqSymbol": ".ج.م",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": ".ج.م",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "ERN": {
     "name": "Nakfa",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "ETB": {
     "name": "Ethiopian Birr",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "EUR": {
     "name": "Euro",
-    "symbol": "€",
-    "uniqSymbol": "€",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "€",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "€",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "FJD": {
     "name": "Fiji Dollar",
-    "symbol": "$",
-    "uniqSymbol": "FJ$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "FJ$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "FKP": {
     "name": "Falkland Islands Pound",
-    "symbol": "£",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "GBP": {
     "name": "Pound Sterling",
-    "symbol": "£",
-    "uniqSymbol": "£",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "GEL": {
     "name": "Lari",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "GGP": {
     "name": "Guernsey Pound",
-    "symbol": "£",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "GHC": {
     "name": "Ghanaian Cedi",
-    "symbol": "¢",
-    "uniqSymbol": "¢",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "¢",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "¢",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "GHS": {
     "name": "Ghan Cedi",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "GIP": {
     "name": "Gibraltar Pound",
-    "symbol": "£",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "GMD": {
     "name": "Dalasi",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "GNF": {
     "name": "Guine Franc",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "GTQ": {
     "name": "Quetzal",
-    "symbol": "Q",
-    "uniqSymbol": "Q",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "Q",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Q",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "GYD": {
     "name": "Guyan Dollar",
-    "symbol": "$",
-    "uniqSymbol": "GY$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "GY$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "HKD": {
     "name": "Hong Kong Dollar",
-    "symbol": "$",
-    "uniqSymbol": "HK$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "HK$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "HNL": {
     "name": "Lempira",
-    "symbol": "L",
-    "uniqSymbol": "L",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "L",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "L",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "HRK": {
     "name": "Croatian Kuna",
-    "symbol": "kn",
-    "uniqSymbol": "kn",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "kn",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "kn",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "HTG": {
     "name": "Gourde",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "HUF": {
     "name": "Forint",
-    "symbol": "Ft",
-    "uniqSymbol": "Ft",
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "Ft",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Ft",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "IDR": {
     "name": "Rupiah",
-    "symbol": "Rp",
-    "uniqSymbol": "Rp",
     "fractionSize": 3,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "Rp",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Rp",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "ILS": {
     "name": "New Israeli Sheqel",
-    "symbol": "₪",
-    "uniqSymbol": "₪",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₪",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₪",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "IMP": {
     "name": "Manx Pound",
-    "symbol": "£",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "INR": {
     "name": "Indian Rupee",
-    "symbol": "₹",
-    "uniqSymbol": "₹",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₹",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₹",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "IQD": {
     "name": "Iraqi Dinar",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 3,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.ع",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".د.ع",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "IRR": {
     "name": "Iranian Rial",
-    "symbol": "﷼",
-    "uniqSymbol": ".ر.ا",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "﷼",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".ر.ا",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "ISK": {
     "name": "Iceland Krona",
-    "symbol": "kr",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "kr",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "JEP": {
     "name": "Jersey Pound",
-    "symbol": "£",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "JMD": {
     "name": "Jamaican Dollar",
-    "symbol": "J$",
-    "uniqSymbol": "J$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "J$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "J$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "JOD": {
     "name": "Jordanian Dinar",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 3,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.إ",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": null
   },
   "JPY": {
     "name": "Yen",
-    "symbol": "¥",
-    "uniqSymbol": "¥",
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "¥",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "¥",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "KES": {
     "name": "Kenyan Shilling",
-    "symbol": "KSh",
-    "uniqSymbol": "KSh",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "KSh",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "KSh",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "KGS": {
     "name": "Som",
-    "symbol": "сом",
-    "uniqSymbol": "сом",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "сом",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "сом",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "KHR": {
     "name": "Riel",
-    "symbol": "៛",
-    "uniqSymbol": "៛",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "៛",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "៛",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "KMF": {
     "name": "Comoro Franc",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "KPW": {
     "name": "North Korean Won",
-    "symbol": "₩",
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₩",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "KRW": {
     "name": "Won",
-    "symbol": "₩",
-    "uniqSymbol": "₩",
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₩",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₩",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "KWD": {
     "name": "Kuwaiti Dinar",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 3,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.ك",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".د.ك",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "KYD": {
     "name": "Cayman Islands Dollar",
-    "symbol": "$",
-    "uniqSymbol": "CI$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "CI$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "KZT": {
     "name": "Tenge",
-    "symbol": "₸",
-    "uniqSymbol": "₸",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₸",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₸",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "LAK": {
     "name": "Kip",
-    "symbol": "₭",
-    "uniqSymbol": "₭",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₭",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₭",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "LBP": {
     "name": "Lebanese Pound",
-    "symbol": "£",
-    "uniqSymbol": ".ل.ل",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": ".ل.ل",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "LKR": {
     "name": "Sri Lank Rupee",
-    "symbol": "₨",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₨",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "LRD": {
     "name": "Liberian Dollar",
-    "symbol": "$",
-    "uniqSymbol": "L$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "L$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "LSL": {
     "name": "Loti",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "LTL": {
     "name": "Lithuanian Litas",
-    "symbol": "Lt",
-    "uniqSymbol": "Lt",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "Lt",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Lt",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "LVL": {
     "name": "Latvian Lats",
-    "symbol": "Ls",
-    "uniqSymbol": "Ls",
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "Ls",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Ls",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "LYD": {
     "name": "Libyan Dinar",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 3,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.ل",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".د.ل",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "MAD": {
     "name": "Moroccan Dirham",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.م",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".د.م",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "MDL": {
     "name": "Moldovan Leu",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "MGA": {
     "name": "Malagasy riary",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "MKD": {
     "name": "Denar",
-    "symbol": "ден",
-    "uniqSymbol": "ден",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "ден",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "ден",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "MMK": {
     "name": "Kyat",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "MNT": {
     "name": "Tugrik",
-    "symbol": "₮",
-    "uniqSymbol": "₮",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₮",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₮",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "MOP": {
     "name": "Pataca",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "MRO": {
     "name": "Ouguiya",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "MUR": {
     "name": "Mauritius Rupee",
-    "symbol": "₨",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₨",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "MVR": {
     "name": "Rufiyaa",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "MWK": {
     "name": "Kwacha",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "MXN": {
     "name": "Mexican Peso",
-    "symbol": "$",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "MXV": {
     "name": "Mexican Unidad de Inversion (UDI)",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "MYR": {
     "name": "Malaysian Ringgit",
-    "symbol": "RM",
-    "uniqSymbol": "RM",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "RM",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "RM",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "MZN": {
     "name": "Mozambique Metical",
-    "symbol": "MT",
-    "uniqSymbol": "MT",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "MT",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "MT",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "NAD": {
     "name": "Namibi Dollar",
-    "symbol": "$",
-    "uniqSymbol": "N$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "N$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "NGN": {
     "name": "Naira",
-    "symbol": "₦",
-    "uniqSymbol": "₦",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₦",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₦",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "NIO": {
     "name": "Cordob Oro",
-    "symbol": "C$",
-    "uniqSymbol": "C$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "C$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "C$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "NOK": {
     "name": "Norwegian Krone",
-    "symbol": "kr",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "kr",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "NPR": {
     "name": "Nepalese Rupee",
-    "symbol": "₨",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₨",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "NZD": {
     "name": "New Zealand Dollar",
-    "symbol": "$",
-    "uniqSymbol": "NZ$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "NZ$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "OMR": {
     "name": "Rial Omani",
-    "symbol": "﷼",
-    "uniqSymbol": ".ر.ع",
     "fractionSize": 3,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "﷼",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".ر.ع",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "PAB": {
     "name": "Balboa",
-    "symbol": "B/.",
-    "uniqSymbol": "B/.",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "B/.",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "B/.",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "PEN": {
     "name": "Nuevo Sol",
-    "symbol": "S/.",
-    "uniqSymbol": "S/.",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "S/.",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "S/.",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "PGK": {
     "name": "Kina",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "PHP": {
     "name": "Philippine Peso",
-    "symbol": "₱",
-    "uniqSymbol": "₱",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₱",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₱",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "PKR": {
     "name": "Pakistan Rupee",
-    "symbol": "₨",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₨",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "PLN": {
     "name": "Zloty",
-    "symbol": "zł",
-    "uniqSymbol": "zł",
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "zł",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "zł",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "PYG": {
     "name": "Guarani",
-    "symbol": "Gs",
-    "uniqSymbol": "Gs",
     "fractionSize": 0,
-    "template": "1$"
+    "symbol": {
+      "grapheme": "Gs",
+      "template": "1$",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Gs",
+      "template": "1$",
+      "rtl": false
+    }
   },
   "QAR": {
     "name": "Qatari Rial",
-    "symbol": "﷼",
-    "uniqSymbol": ".ر.ق",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "﷼",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".ر.ق",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "RON": {
     "name": "New Romanian Leu",
-    "symbol": "lei",
-    "uniqSymbol": "lei",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "lei",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "lei",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "RSD": {
     "name": "Serbian Dinar",
-    "symbol": "Дин.",
-    "uniqSymbol": "Дин.",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "Дин.",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Дин.",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "RUB": {
     "name": "Russian Ruble",
-    "symbol": "₽",
-    "uniqSymbol": "₽",
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "₽",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₽",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "RUR": {
     "name": "Russian Ruble",
-    "symbol": "₽",
-    "uniqSymbol": "₽",
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "₽",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₽",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "RWF": {
     "name": "Rwand Franc",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "SAR": {
     "name": "Saudi Riyal",
-    "symbol": "﷼",
-    "uniqSymbol": ".ر.س",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "﷼",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".ر.س",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "SBD": {
     "name": "Solomon Islands Dollar",
-    "symbol": "$",
-    "uniqSymbol": "SI$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "SI$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "SCR": {
     "name": "Seychelles Rupee",
-    "symbol": "₨",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₨",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "SDG": {
     "name": "Sudanese Pound",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "SEK": {
     "name": "Swedish Krona",
-    "symbol": "kr",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "kr",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "SGD": {
     "name": "Singapore Dollar",
-    "symbol": "$",
-    "uniqSymbol": "S$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "S$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "SHP": {
     "name": "Saint Helen Pound",
-    "symbol": "£",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "SLL": {
     "name": "Leone",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "SOS": {
     "name": "Somali Shilling",
-    "symbol": "S",
-    "uniqSymbol": "S",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "S",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "S",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "SRD": {
     "name": "Surinam Dollar",
-    "symbol": "$",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "SSP": {
     "name": "South Sudanese Pound",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "STD": {
     "name": "Dobra",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "SVC": {
     "name": "El Salvador Colon",
-    "symbol": "$",
-    "uniqSymbol": "C",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "C",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "SYP": {
     "name": "Syrian Pound",
-    "symbol": "£",
-    "uniqSymbol": ".ل.س",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "£",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": ".ل.س",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "SZL": {
     "name": "Lilangeni",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "THB": {
     "name": "Baht",
-    "symbol": "฿",
-    "uniqSymbol": "฿",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "฿",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "฿",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "TJS": {
     "name": "Somoni",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "TMT": {
     "name": "Turkmenistan New Manat",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "TND": {
     "name": "Tunisian Dinar",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 3,
-    "template": null
+    "symbol": {
+      "grapheme": ".د.ت",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".د.ت",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "TOP": {
     "name": "Pa’anga",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "TRL": {
     "name": "Turkish Lira",
-    "symbol": "₤",
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₤",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": null
   },
   "TRY": {
     "name": "Turkish Lira",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": null,
+    "uniqSymbol": null
   },
   "TTD": {
     "name": "Trinidad nd Tobago Dollar",
-    "symbol": "TT$",
-    "uniqSymbol": "TT$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "TT$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "TT$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "TWD": {
     "name": "New Taiwan Dollar",
-    "symbol": "NT$",
-    "uniqSymbol": "NT$",
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "NT$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "NT$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "TZS": {
     "name": "Tanzanian Shilling",
-    "symbol": "TSh",
-    "uniqSymbol": "TSh",
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "TSh",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "TSh",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "UAH": {
     "name": "Hryvnia",
-    "symbol": "₴",
-    "uniqSymbol": "₴",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "₴",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₴",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "UGX": {
     "name": "Ugand Shilling",
-    "symbol": "USh",
-    "uniqSymbol": "USh",
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "USh",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "USh",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "USD": {
     "name": "US Dollar",
-    "symbol": "$",
-    "uniqSymbol": "$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "USN": {
     "name": "US Dollar (Next day)",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "UYI": {
     "name": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "UYU": {
     "name": "Peso Uruguayo",
-    "symbol": "$U",
-    "uniqSymbol": "$U",
     "fractionSize": 0,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$U",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "$U",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "UZS": {
     "name": "Uzbekistan Sum",
-    "symbol": "so’m",
-    "uniqSymbol": "so’m",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "so’m",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "so’m",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "VEF": {
     "name": "Bolivar",
-    "symbol": "Bs",
-    "uniqSymbol": "Bs",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "Bs",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Bs",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "VND": {
     "name": "Dong",
-    "symbol": "₫",
-    "uniqSymbol": "₫",
     "fractionSize": 0,
-    "template": "1 $"
+    "symbol": {
+      "grapheme": "₫",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "₫",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "VUV": {
     "name": "Vatu",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "WST": {
     "name": "Tala",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "XAF": {
     "name": "CF Franc BEAC",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "XCD": {
     "name": "East Caribbean Dollar",
-    "symbol": "$",
-    "uniqSymbol": "EC$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "EC$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "XDR": {
     "name": "SDR (Special Drawing Right)",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "XOF": {
     "name": "CF Franc BCEAO",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "XPF": {
     "name": "CFP Franc",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "XSU": {
     "name": "Sucre",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "XUA": {
     "name": "ADB Unit of ccount",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 0,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "YER": {
     "name": "Yemeni Rial",
-    "symbol": "﷼",
-    "uniqSymbol": ".ر.ي",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "﷼",
+      "template": "$ 1",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": ".ر.ي",
+      "template": "$ 1",
+      "rtl": true
+    }
   },
   "ZAR": {
     "name": "Rand",
-    "symbol": "R",
-    "uniqSymbol": "R",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "R",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "R",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "ZMW": {
     "name": "Zambian Kwacha",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   },
   "ZWD": {
     "name": "Zimbabwe Dollar",
-    "symbol": "Z$",
-    "uniqSymbol": "Z$",
     "fractionSize": 2,
-    "template": "$1"
+    "symbol": {
+      "grapheme": "Z$",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Z$",
+      "template": "$1",
+      "rtl": false
+    }
   },
   "ZWL": {
     "name": "Zimbabwe Dollar",
-    "symbol": null,
-    "uniqSymbol": null,
     "fractionSize": 2,
-    "template": null
+    "symbol": null,
+    "uniqSymbol": null
   }
 }
