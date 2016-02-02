@@ -4,7 +4,7 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": ".د.إ",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": null
@@ -14,12 +14,12 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": "؋",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": "؋",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -172,12 +172,12 @@
     "fractionSize": 3,
     "symbol": {
       "grapheme": ".د.ب",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".د.ب",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -484,12 +484,12 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": ".د.ج",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".د.ج",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -513,7 +513,7 @@
     },
     "uniqSymbol": {
       "grapheme": ".ج.م",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -786,12 +786,12 @@
     "fractionSize": 3,
     "symbol": {
       "grapheme": ".د.ع",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".د.ع",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -800,12 +800,12 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": "﷼",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".ر.ا",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -848,7 +848,7 @@
     "fractionSize": 3,
     "symbol": {
       "grapheme": ".د.إ",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": null
@@ -944,12 +944,12 @@
     "fractionSize": 3,
     "symbol": {
       "grapheme": ".د.ك",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".د.ك",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1005,7 +1005,7 @@
     },
     "uniqSymbol": {
       "grapheme": ".ل.ل",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1072,12 +1072,12 @@
     "fractionSize": 3,
     "symbol": {
       "grapheme": ".د.ل",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".د.ل",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1086,12 +1086,12 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": ".د.م",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".د.م",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1300,12 +1300,12 @@
     "fractionSize": 3,
     "symbol": {
       "grapheme": "﷼",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".ر.ع",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1400,12 +1400,12 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": "﷼",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".ر.ق",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1476,12 +1476,12 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": "﷼",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".ر.س",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1615,7 +1615,7 @@
     },
     "uniqSymbol": {
       "grapheme": ".ل.س",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1656,12 +1656,12 @@
     "fractionSize": 3,
     "symbol": {
       "grapheme": ".د.ت",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".د.ت",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
@@ -1906,12 +1906,12 @@
     "fractionSize": 2,
     "symbol": {
       "grapheme": "﷼",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     },
     "uniqSymbol": {
       "grapheme": ".ر.ي",
-      "template": "$ 1",
+      "template": "1 $",
       "rtl": true
     }
   },
