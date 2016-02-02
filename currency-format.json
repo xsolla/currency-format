@@ -1052,7 +1052,7 @@
   "TRL": {
     "name": "Turkish Lira",
     "symbol": "₤",
-    "uniqSymbol": "₤",
+    "uniqSymbol": null,
     "fractionSize": 2,
     "template": "$1"
   },
