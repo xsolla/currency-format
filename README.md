@@ -1,5 +1,7 @@
 # Currency Format JSON
 
+[![npm version](https://badge.fury.io/js/currency-format.svg)](https://badge.fury.io/js/currency-format)
+
 JSON with information about currencies: codes (ISO 4217), the names, grapheme (symbols), fraction and formatting.
 
 ## Installation
