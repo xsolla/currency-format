@@ -19,12 +19,15 @@ The structure of the JSON file:
      'fractionSize': 2,             // Fraction size, a number of decimal places.
      'symbol': {                    // Currency symbol information.
          'grapheme': 'դր.',         // Currency symbol.
-         'template': '1 $',         // Template showing where the currency symbol should be located (before or after amount).
+         'template': '1 $',         // Template showing where the currency symbol should be located
+                                    // (before or after amount).
          'rtl': false               // Writing direction.
      },
-     'uniqSymbol': {                // Alternative currency symbol. We recommend to use it when you want to exclude a repetition of symbols in different currencies.
+     'uniqSymbol': {                // Alternative currency symbol. We recommend to use it when you want
+                                    // to exclude a repetition of symbols in different currencies.
          'grapheme': 'դր.',         // Alternative currency symbol.
-         'template': '1 $',         // Template showing where the alternative currency symbol should be located (before or after amount).
+         'template': '1 $',         // Template showing where the alternative currency symbol should be
+                                    // located (before or after amount).
          'rtl': false               // Writing direction.
      }
   },
