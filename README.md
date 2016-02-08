@@ -32,7 +32,7 @@ The structure of the JSON file:
 }
 ```
 
-Symbol/uniqSymbol field is `null`, when the currency has no symbol/alternative symbol.
+symbol/uniqSymbol field is `null`, when the currency has no symbol/alternative symbol.
 
 ## Currency reference
 
