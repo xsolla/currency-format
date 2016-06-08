@@ -15,5 +15,6 @@
     "format",
     "json"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "main": "currency-format.json"
 }
