@@ -1,0 +1,17 @@
+{
+  "name": "currency-format",
+  "description": "JSON with information about currencies: codes (ISO 4217), the names, grapheme (symbols) and formatting.",
+  "license": "MIT",
+  "authors": [
+    "Aleksey Pikhtovnikov <a.pihtovnikov@xsolla.com>"
+  ],
+  "keywords": [
+    "currency",
+    "grapheme",
+    "symbols",
+    "iso",
+    "4217",
+    "format"
+  ],
+  "moduleType": []
+}

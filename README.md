@@ -1,14 +1,14 @@
 # Currency Format JSON
 
-[![npm version](https://badge.fury.io/js/currency-format.svg)](https://badge.fury.io/js/currency-format)
+[![npm version](https://badge.fury.io/js/currency-format.svg)](https://badge.fury.io/js/currency-format) [![bower version](https://badge.fury.io/bo/currency-format.svg)](https://badge.fury.io/bo/currency-format)
 
 JSON with information about currencies: codes (ISO 4217), the names, grapheme (symbols), fraction and formatting.
 
 ## Installation
 
-Copy the JSON file into your project or use npm package manager:
+Copy the JSON file into your project or use npm/bower package manager:
 
-- Execute the following command: `npm install currency-format`
+- Execute the following command: `npm install currency-format` or `bower install currency-format`
 
 ## Usage
 
