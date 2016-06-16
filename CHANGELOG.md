@@ -1,8 +1,10 @@
 # Changelog
 
-## 1.0.4 - 2016-06-15
+## 1.0.4 - 2016-06-16
 
 - [feature] Register in Bower.
+
+- [feature] Added 'main' field to package.json to make package requirable.
 
 - [fix] Fixed some names of currencies.
 
