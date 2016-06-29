@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5 - 2016-06-29
+
+- [feature] Add symbol template for new Belarussian Ruble (BYN). Remove (set null) uniqSymbol for Belarussian Ruble (BYR).
+
 ## 1.0.4 - 2016-06-16
 
 - [feature] Register in Bower.
