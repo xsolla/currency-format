@@ -283,7 +283,11 @@
       "template": "1 $",
       "rtl": false
     },
-    "uniqSymbol": null
+    "uniqSymbol": {
+      "grapheme": "р.",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "BYR": {
     "name": "Belarussian Ruble",
@@ -293,7 +297,11 @@
       "template": "1 $",
       "rtl": false
     },
-    "uniqSymbol": null
+    "uniqSymbol": {
+      "grapheme": "р.",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "BZD": {
     "name": "Belize Dollar",
