@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7 - 2016-09-08
+
+- [feature] Add languages object: numeral-format.json.
+
 ## 1.0.6 - 2016-06-30
 
 - [feature] Add uniqSymbol for BYR and BYN.
