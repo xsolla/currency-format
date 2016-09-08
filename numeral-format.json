@@ -1,4 +1,12 @@
 {
+    "ar": {
+        "decimal": ".",
+        "thousands": ","
+    },
+    "bg": {
+        "decimal": ".",
+        "thousands": ","
+    },
     "cn": {
         "decimal": ".",
         "thousands": ","
@@ -31,6 +39,10 @@
         "decimal": ",",
         "thousands": " "
     },
+    "he": {
+        "decimal": ",",
+        "thousands": " "
+    },
     "hu": {
         "decimal": ",",
         "thousands": " "
@@ -40,6 +52,10 @@
         "thousands": "."
     },
     "ja": {
+        "decimal": ".",
+        "thousands": ","
+    },
+    "ko": {
         "decimal": ".",
         "thousands": ","
     },
@@ -55,6 +71,10 @@
         "decimal": ",",
         "thousands": " "
     },
+    "ro": {
+        "decimal": ",",
+        "thousands": "."
+    },
     "ru": {
         "decimal": ",",
         "thousands": " "
@@ -68,6 +88,14 @@
         "thousands": ","
     },
     "tr": {
+        "decimal": ",",
+        "thousands": "."
+    },
+    "tw": {
+        "decimal": ",",
+        "thousands": "."
+    },
+    "vi": {
         "decimal": ",",
         "thousands": "."
     }
