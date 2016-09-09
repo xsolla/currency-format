@@ -39,6 +39,18 @@ The structure of the JSON file:
 
 symbol/uniqSymbol field is `null`, when the currency has no symbol/alternative symbol.
 
+Languages object structure:
+
+```javascript
+{
+    "en": {
+        "decimal": ".",
+        "thousands": ","
+    },
+    ...
+}
+```
+
 ## Currency reference
 
 The list of currency codes was taken from https://en.wikipedia.org/wiki/ISO_4217.
