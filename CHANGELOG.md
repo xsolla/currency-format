@@ -2,6 +2,8 @@
 
 ## 1.0.7 - 2017-01-12
 
+- [fix] Removed grapheme for CHF.
+
 - [fix] Fixed fraction size for BYN.
 
 ## 1.0.6 - 2016-06-30
