@@ -2,6 +2,8 @@
 
 ## 1.0.7 - 2017-01-12
 
+- [fix] Updated grapheme for PEN.
+
 - [fix] Removed grapheme for CHF.
 
 - [fix] Fixed fraction size for BYN.
