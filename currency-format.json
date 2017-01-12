@@ -277,7 +277,7 @@
   },
   "BYN": {
     "name": "Belarussian Ruble",
-    "fractionSize": 0,
+    "fractionSize": 2,
     "symbol": {
       "grapheme": "p.",
       "template": "1 $",

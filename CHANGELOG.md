@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7 - 2017-01-12
+
+- [fix] Fixed fraction size for BYN.
+
 ## 1.0.6 - 2016-06-30
 
 - [feature] Add uniqSymbol for BYR and BYN.
