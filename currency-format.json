@@ -1333,12 +1333,12 @@
     "name": "Nuevo Sol",
     "fractionSize": 2,
     "symbol": {
-      "grapheme": "S/.",
+      "grapheme": "S/",
       "template": "$1",
       "rtl": false
     },
     "uniqSymbol": {
-      "grapheme": "S/.",
+      "grapheme": "S/",
       "template": "$1",
       "rtl": false
     }
