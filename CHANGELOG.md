@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.7 - 2017-01-26
+
+- [fix] Fixed fraction size for IDR.
+
+- [fix] Updated grapheme for PEN.
+
+- [fix] Removed grapheme for CHF.
+
+- [fix] Fixed fraction size for BYN.
+
 ## 1.0.6 - 2016-06-30
 
 - [feature] Add uniqSymbol for BYR and BYN.
