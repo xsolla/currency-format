@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.7 - 2017-01-12
+## 1.0.7 - 2017-01-26
 
 - [fix] Fixed fraction size for IDR.
 
