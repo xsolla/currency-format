@@ -1,5 +1,9 @@
 # Changelog
 
+## dev
+
+- [fix] Fixed name for XOF and XAF.
+
 ## 1.0.7 - 2017-01-26
 
 - [fix] Fixed fraction size for IDR.
