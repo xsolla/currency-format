@@ -1866,7 +1866,7 @@
     "uniqSymbol": null
   },
   "XAF": {
-    "name": "CF Franc BEAC",
+    "name": "CFA Franc BEAC",
     "fractionSize": 0,
     "symbol": null,
     "uniqSymbol": null
@@ -1892,7 +1892,7 @@
     "uniqSymbol": null
   },
   "XOF": {
-    "name": "CF Franc BCEAO",
+    "name": "CFA Franc BCEAO",
     "fractionSize": 0,
     "symbol": null,
     "uniqSymbol": null
