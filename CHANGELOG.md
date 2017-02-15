@@ -2,6 +2,8 @@
 
 ## dev
 
+- [fix] Fixed name and template for CNY.
+
 - [fix] Fixed name for XOF and XAF.
 
 ## 1.0.7 - 2017-01-26
