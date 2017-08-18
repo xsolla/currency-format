@@ -1108,8 +1108,8 @@
     "uniqSymbol": null
   },
   "MGA": {
-    "name": "Malagasy riary",
-    "fractionSize": 2,
+    "name": "Malagasy ariary",
+    "fractionSize": 0,
     "symbol": null,
     "uniqSymbol": null
   },
