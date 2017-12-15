@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.8 - 2017-12-13
+## 1.0.8 - 2017-12-15
 - [feature] Add cryptocurrencies ETH, BTC, LTC
 
 ## 1.0.7 - 2017-01-26
