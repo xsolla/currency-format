@@ -1108,8 +1108,8 @@
     "uniqSymbol": null
   },
   "MGA": {
-    "name": "Malagasy riary",
-    "fractionSize": 2,
+    "name": "Malagasy ariary",
+    "fractionSize": 0,
     "symbol": null,
     "uniqSymbol": null
   },
@@ -1866,10 +1866,18 @@
     "uniqSymbol": null
   },
   "XAF": {
-    "name": "CF Franc BEAC",
+    "name": "CFA Franc BEAC",
     "fractionSize": 0,
-    "symbol": null,
-    "uniqSymbol": null
+    "symbol": {
+      "grapheme": "F CFA",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "F CFA",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "XCD": {
     "name": "East Caribbean Dollar",
@@ -1892,10 +1900,18 @@
     "uniqSymbol": null
   },
   "XOF": {
-    "name": "CF Franc BCEAO",
+    "name": "CFA Franc BCEAO",
     "fractionSize": 0,
-    "symbol": null,
-    "uniqSymbol": null
+    "symbol": {
+      "grapheme": "CFA",
+      "template": "1 $",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "F CFA BCEAO",
+      "template": "1 $",
+      "rtl": false
+    }
   },
   "XPF": {
     "name": "CFP Franc",

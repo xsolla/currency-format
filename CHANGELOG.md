@@ -4,6 +4,10 @@
 
 - [fix] Updated grapheme for IRR.
 
+- [fix] Updated fraction size and name of MGA.
+
+- [fix] Updated the CFA francs (XAF/XOF).
+
 ## 1.0.8 - 2017-12-15
 
 - [feature] Add cryptocurrencies ETH, BTC, LTC
