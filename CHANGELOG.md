@@ -1,6 +1,15 @@
 # Changelog
 
+## 1.0.9 - 2018-03-20
+
+- [fix] Updated grapheme for IRR.
+
+- [fix] Updated fraction size and name of MGA.
+
+- [fix] Updated the CFA francs (XAF/XOF).
+
 ## 1.0.8 - 2017-12-15
+
 - [feature] Add cryptocurrencies ETH, BTC, LTC
 
 ## 1.0.7 - 2017-01-26
