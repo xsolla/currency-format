@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.10 - 2018-04-25
+
+- [fix] Updated fraction size for IRR.
+
 ## 1.0.9 - 2018-03-20
 
 - [fix] Updated grapheme for IRR.
