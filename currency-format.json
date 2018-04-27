@@ -803,7 +803,7 @@
   },
   "IRR": {
     "name": "Iranian Rial",
-    "fractionSize": 2,
+    "fractionSize": 0,
     "symbol": {
       "grapheme": "﷼",
       "template": "1 $",
