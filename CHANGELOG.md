@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 1.0.11 - 2018-09-04
+
+- [feature] Updated ISO for Bolivar.
+
 ## 1.0.10 - 2018-04-25
 
 - [fix] Updated fraction size for IRR.

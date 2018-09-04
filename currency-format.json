@@ -1839,6 +1839,20 @@
       "rtl": false
     }
   },
+  "VES": {
+    "name": "Bolivar",
+    "fractionSize": 2,
+    "symbol": {
+      "grapheme": "Bs",
+      "template": "$1",
+      "rtl": false
+    },
+    "uniqSymbol": {
+      "grapheme": "Bs",
+      "template": "$1",
+      "rtl": false
+    }
+  },
   "VND": {
     "name": "Dong",
     "fractionSize": 0,
