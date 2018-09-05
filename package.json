@@ -1,6 +1,6 @@
 {
   "name": "currency-format",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "JSON with information about currencies: codes (ISO 4217), the names, grapheme (symbols) and formatting.",
   "author": "Aleksey Pikhtovnikov <a.pihtovnikov@xsolla.com>",
   "repository": {
