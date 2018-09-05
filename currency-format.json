@@ -1109,7 +1109,7 @@
   },
   "MGA": {
     "name": "Malagasy ariary",
-    "fractionSize": 0,
+    "fractionSize": 1,
     "symbol": null,
     "uniqSymbol": null
   },
@@ -1883,12 +1883,12 @@
     "name": "CFA Franc BEAC",
     "fractionSize": 0,
     "symbol": {
-      "grapheme": "F CFA",
+      "grapheme": "FCFA",
       "template": "1 $",
       "rtl": false
     },
     "uniqSymbol": {
-      "grapheme": "F CFA",
+      "grapheme": "FCFA",
       "template": "1 $",
       "rtl": false
     }
@@ -1922,7 +1922,7 @@
       "rtl": false
     },
     "uniqSymbol": {
-      "grapheme": "F CFA BCEAO",
+      "grapheme": "CFA",
       "template": "1 $",
       "rtl": false
     }
