@@ -1,5 +1,12 @@
 # Changelog
 
+
+## 1.0.11 - 2018-09-04
+
+- [feature] Updated ISO for Bolivar.
+- [fix] MGA fraction size and name.
+- [fix] XOF and XAF info.
+
 ## 1.0.10 - 2018-04-25
 
 - [fix] Updated fraction size for IRR.
