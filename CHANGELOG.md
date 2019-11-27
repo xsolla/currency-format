@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 1.0.12 - 2019-11-27
+
+- [feature] Add Symbols for 53 currencies.
+
 ## 1.0.11 - 2018-09-04
 
 - [feature] Updated ISO for Bolivar.
