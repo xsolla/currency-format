@@ -68,7 +68,11 @@
   "AOA": {
     "name": "Kwanza",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Kz",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "ARS": {
@@ -150,7 +154,11 @@
   "BDT": {
     "name": "Taka",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "৳",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "BGN": {
@@ -184,7 +192,11 @@
   "BIF": {
     "name": "Burundi Franc",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "FBu",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "BMD": {
@@ -228,7 +240,11 @@
   "BOV": {
     "name": "Mvdol",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Bov",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "BRL": {
@@ -258,7 +274,11 @@
   "BTN": {
     "name": "Ngultrum",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Nu.",
+      "template": "$ 1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "BWP": {
@@ -334,31 +354,51 @@
   "CDF": {
     "name": "Congolese Franc",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "FC",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "CHE": {
     "name": "WIR Euro",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "CHE",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "CHF": {
     "name": "Swiss Franc",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "fr.",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "CHW": {
     "name": "WIR Franc",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "CHW",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "CLF": {
     "name": "Unidad de Fomento",
     "fractionSize": 4,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "UF",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "CLP": {
@@ -398,7 +438,11 @@
   "COU": {
     "name": "Unidad de Valor Real",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "COU",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "CRC": {
@@ -418,7 +462,11 @@
   "CUC": {
     "name": "Peso Convertible",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "CUC",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "CUP": {
@@ -438,7 +486,11 @@
   "CVE": {
     "name": "Cabo Verde Escudo",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "esc",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "CZK": {
@@ -458,7 +510,11 @@
   "DJF": {
     "name": "Djibouti Franc",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Fdj",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "DKK": {
@@ -526,13 +582,21 @@
   "ERN": {
     "name": "Nakfa",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Nkf",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "ETB": {
     "name": "Ethiopian Birr",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Br",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "EUR": {
@@ -590,7 +654,11 @@
   "GEL": {
     "name": "Lari",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "GEL",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "GGP": {
@@ -620,7 +688,11 @@
   "GHS": {
     "name": "Ghan Cedi",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "GH₵",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "GIP": {
@@ -636,13 +708,21 @@
   "GMD": {
     "name": "Dalasi",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "D",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "GNF": {
     "name": "Guine Franc",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "GFr",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "GTQ": {
@@ -718,7 +798,11 @@
   "HTG": {
     "name": "Gourde",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "G",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "HUF": {
@@ -918,7 +1002,11 @@
   "KMF": {
     "name": "Comoro Franc",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "CF",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "KPW": {
@@ -1042,7 +1130,11 @@
   "LSL": {
     "name": "Loti",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "LSL",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "LTL": {
@@ -1104,13 +1196,21 @@
   "MDL": {
     "name": "Moldovan Leu",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "lei",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "MGA": {
     "name": "Malagasy ariary",
     "fractionSize": 1,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Ar",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "MKD": {
@@ -1130,7 +1230,11 @@
   "MMK": {
     "name": "Kyat",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "K",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "MNT": {
@@ -1150,13 +1254,21 @@
   "MOP": {
     "name": "Pataca",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "MOP$",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "MRO": {
     "name": "Ouguiya",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "ouguiya",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "MUR": {
@@ -1172,13 +1284,21 @@
   "MVR": {
     "name": "Rufiyaa",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "MVR",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "MWK": {
     "name": "Kwacha",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "MK",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "MXN": {
@@ -1194,7 +1314,11 @@
   "MXV": {
     "name": "Mexican Unidad de Inversion (UDI)",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "UDI",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "MYR": {
@@ -1346,7 +1470,11 @@
   "PGK": {
     "name": "Kina",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "K",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "PHP": {
@@ -1474,7 +1602,11 @@
   "RWF": {
     "name": "Rwand Franc",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "R₣",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "SAR": {
@@ -1518,7 +1650,11 @@
   "SDG": {
     "name": "Sudanese Pound",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "SDG",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "SEK": {
@@ -1558,7 +1694,11 @@
   "SLL": {
     "name": "Leone",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Le",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "SOS": {
@@ -1588,13 +1728,21 @@
   "SSP": {
     "name": "South Sudanese Pound",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "SS£",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "STD": {
     "name": "Dobra",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Db",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "SVC": {
@@ -1628,7 +1776,11 @@
   "SZL": {
     "name": "Lilangeni",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "L",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "THB": {
@@ -1648,13 +1800,21 @@
   "TJS": {
     "name": "Somoni",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "SM",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "TMT": {
     "name": "Turkmenistan New Manat",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "T",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "TND": {
@@ -1674,7 +1834,11 @@
   "TOP": {
     "name": "Pa’anga",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "T$",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "TRL": {
@@ -1788,13 +1952,21 @@
   "USN": {
     "name": "US Dollar (Next day)",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "$",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "UYI": {
     "name": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "$U",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "UYU": {
@@ -1870,13 +2042,21 @@
   "VUV": {
     "name": "Vatu",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "VT",
+      "template": "1$",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "WST": {
     "name": "Tala",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "WS$",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "XAF": {
@@ -1910,7 +2090,11 @@
   "XDR": {
     "name": "SDR (Special Drawing Right)",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "SDR",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "XOF": {
@@ -1930,19 +2114,31 @@
   "XPF": {
     "name": "CFP Franc",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "₣",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "XSU": {
     "name": "Sucre",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "XSU",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "XUA": {
     "name": "ADB Unit of Account",
     "fractionSize": 0,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "XUA",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "YER": {
@@ -1976,7 +2172,11 @@
   "ZMW": {
     "name": "Zambian Kwacha",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "K",
+      "template": "1 $",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "ZWD": {
@@ -1996,7 +2196,11 @@
   "ZWL": {
     "name": "Zimbabwe Dollar",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Z$",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "BTC": {
