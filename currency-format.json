@@ -1153,11 +1153,19 @@
     "symbol": null,
     "uniqSymbol": null
   },
-  "MRO": {
+  "MRU": {
     "name": "Ouguiya",
     "fractionSize": 2,
-    "symbol": null,
-    "uniqSymbol": null
+    "symbol": {
+      "grapheme": "UM",
+      "template": "1 $",
+      "rtl": true
+    },
+    "uniqSymbol": {
+      "grapheme": "أوقية",
+      "template": "1 $",
+      "rtl": true
+    }
   },
   "MUR": {
     "name": "Mauritius Rupee",
@@ -1591,10 +1599,14 @@
     "symbol": null,
     "uniqSymbol": null
   },
-  "STD": {
+  "STN": {
     "name": "Dobra",
     "fractionSize": 2,
-    "symbol": null,
+    "symbol": {
+      "grapheme": "Db",
+      "template": "$1",
+      "rtl": false
+    },
     "uniqSymbol": null
   },
   "SVC": {
