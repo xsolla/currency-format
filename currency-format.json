@@ -1939,12 +1939,12 @@
     "name": "US Dollar",
     "fractionSize": 2,
     "symbol": {
-      "grapheme": "$",
+      "grapheme": "US$",
       "template": "$1",
       "rtl": false
     },
     "uniqSymbol": {
-      "grapheme": "$",
+      "grapheme": "US$",
       "template": "$1",
       "rtl": false
     }

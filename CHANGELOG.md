@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 1.0.13 - 2020-01-29
+
+- [fix] Updated grapheme for USD
+
 ## 1.0.12 - 2019-11-27
 
 - [feature] Add Symbols for 53 currencies.
