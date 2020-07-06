@@ -24,7 +24,7 @@
     }
   },
   "ALL": {
-    "name": "Lek",
+    "name": "Albanian Lek",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "L",
@@ -152,7 +152,7 @@
     "uniqSymbol": null
   },
   "BDT": {
-    "name": "Taka",
+    "name": "Bangladeshi Taka",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "৳",
@@ -282,7 +282,7 @@
     "uniqSymbol": null
   },
   "BWP": {
-    "name": "Pula",
+    "name": "Botswana Pula",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "P",
@@ -652,7 +652,7 @@
     }
   },
   "GEL": {
-    "name": "Lari",
+    "name": "Georgian Lari",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "GEL",
@@ -706,7 +706,7 @@
     "uniqSymbol": null
   },
   "GMD": {
-    "name": "Dalasi",
+    "name": "Gambian Dalasi",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "D",
@@ -796,7 +796,7 @@
     }
   },
   "HTG": {
-    "name": "Gourde",
+    "name": "Haitian Gourde",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "G",
@@ -820,7 +820,7 @@
     }
   },
   "IDR": {
-    "name": "Rupiah",
+    "name": "Indonesian Rupiah",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "Rp",
@@ -944,7 +944,7 @@
     "uniqSymbol": null
   },
   "JPY": {
-    "name": "Yen",
+    "name": "Japanese Yen",
     "fractionSize": 0,
     "symbol": {
       "grapheme": "¥",
@@ -972,7 +972,7 @@
     }
   },
   "KGS": {
-    "name": "Som",
+    "name": "Kyrgyzstani Som",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "сом",
@@ -986,7 +986,7 @@
     }
   },
   "KHR": {
-    "name": "Riel",
+    "name": "Cambodian Riel",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "៛",
@@ -1020,7 +1020,7 @@
     "uniqSymbol": null
   },
   "KRW": {
-    "name": "Won",
+    "name": "South Korean Won",
     "fractionSize": 0,
     "symbol": {
       "grapheme": "₩",
@@ -1062,7 +1062,7 @@
     }
   },
   "KZT": {
-    "name": "Tenge",
+    "name": "Kazakhstani Tenge",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "₸",
@@ -1128,7 +1128,7 @@
     }
   },
   "LSL": {
-    "name": "Loti",
+    "name": "Lesotho Loti",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "LSL",
@@ -1214,7 +1214,7 @@
     "uniqSymbol": null
   },
   "MKD": {
-    "name": "Denar",
+    "name": "Macedonian Denar",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "ден",
@@ -1238,7 +1238,7 @@
     "uniqSymbol": null
   },
   "MNT": {
-    "name": "Tugrik",
+    "name": "Mongolian Tugrik",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "₮",
@@ -1252,7 +1252,7 @@
     }
   },
   "MOP": {
-    "name": "Pataca",
+    "name": "Macanese Pataca",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "MOP$",
@@ -1262,7 +1262,7 @@
     "uniqSymbol": null
   },
   "MRO": {
-    "name": "Ouguiya",
+    "name": "Mauritanian Ouguiya",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "ouguiya",
@@ -1282,7 +1282,7 @@
     "uniqSymbol": null
   },
   "MVR": {
-    "name": "Rufiyaa",
+    "name": "Maldivian Rufiyaa",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "MVR",
@@ -1292,7 +1292,7 @@
     "uniqSymbol": null
   },
   "MWK": {
-    "name": "Kwacha",
+    "name": "Malawian Kwacha",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "MK",
@@ -1364,7 +1364,7 @@
     }
   },
   "NGN": {
-    "name": "Naira",
+    "name": "Nigerian Naira",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "₦",
@@ -1468,7 +1468,7 @@
     }
   },
   "PGK": {
-    "name": "Kina",
+    "name": "Papua New Guinean Kina",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "K",
@@ -1502,7 +1502,7 @@
     "uniqSymbol": null
   },
   "PLN": {
-    "name": "Zloty",
+    "name": "Polish Zloty",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "zł",
@@ -1692,7 +1692,7 @@
     "uniqSymbol": null
   },
   "SLL": {
-    "name": "Leone",
+    "name": "Sierra Leonean Leone",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "Le",
@@ -1774,7 +1774,7 @@
     }
   },
   "SZL": {
-    "name": "Lilangeni",
+    "name": "Swazi Lilangeni",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "L",
@@ -1784,7 +1784,7 @@
     "uniqSymbol": null
   },
   "THB": {
-    "name": "Baht",
+    "name": "Thai Baht",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "฿",
@@ -1798,7 +1798,7 @@
     }
   },
   "TJS": {
-    "name": "Somoni",
+    "name": "Tajikistani Somoni",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "SM",
@@ -1832,7 +1832,7 @@
     }
   },
   "TOP": {
-    "name": "Pa’anga",
+    "name": "Tongan Pa’anga",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "T$",
@@ -1908,7 +1908,7 @@
     }
   },
   "UAH": {
-    "name": "Hryvnia",
+    "name": "Ukrainian Hryvnia",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "₴",
@@ -2026,7 +2026,7 @@
     }
   },
   "VND": {
-    "name": "Dong",
+    "name": "Vietnamese Dong",
     "fractionSize": 0,
     "symbol": {
       "grapheme": "₫",
@@ -2040,7 +2040,7 @@
     }
   },
   "VUV": {
-    "name": "Vatu",
+    "name": "Vanuatu Vatu",
     "fractionSize": 0,
     "symbol": {
       "grapheme": "VT",
@@ -2050,7 +2050,7 @@
     "uniqSymbol": null
   },
   "WST": {
-    "name": "Tala",
+    "name": "Samoan Tala",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "WS$",
@@ -2156,7 +2156,7 @@
     }
   },
   "ZAR": {
-    "name": "Rand",
+    "name": "South African Rand",
     "fractionSize": 2,
     "symbol": {
       "grapheme": "R",
