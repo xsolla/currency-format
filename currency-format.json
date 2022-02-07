@@ -1939,7 +1939,7 @@
     "name": "US Dollar",
     "fractionSize": 2,
     "symbol": {
-      "grapheme": "US$",
+      "grapheme": "$",
       "template": "$1",
       "rtl": false
     },
