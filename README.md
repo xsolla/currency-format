@@ -12,6 +12,14 @@ Copy the JSON file into your project or use npm/bower package manager:
 
 ## Usage
 
+Import `currency-format` into your source file to get the JSON.
+
+If you are using node version 17.5.0 or later, you must use a JSON type assertion while importing this module:
+
+```js
+import currencyFormat from 'currency-format' assert {type: 'json'}
+``
+
 The structure of the JSON file:
 
 ```javascript
