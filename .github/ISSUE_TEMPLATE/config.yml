@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Xsolla Developer Portal
+    url: https://developers.xsolla.com
+    about: Integration guides, API reference, and account-specific help.
