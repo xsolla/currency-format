@@ -1,5 +1,8 @@
 # Currency Format JSON
 
+![License](https://img.shields.io/github/license/xsolla/currency-format)
+![Latest release](https://img.shields.io/github/v/release/xsolla/currency-format)
+
 [![npm version](https://badge.fury.io/js/currency-format.svg)](https://badge.fury.io/js/currency-format) [![bower version](https://badge.fury.io/bo/currency-format.svg)](https://badge.fury.io/bo/currency-format)
 
 JSON with information about currencies: codes (ISO 4217), the names, grapheme (symbols), fraction and formatting.
@@ -48,3 +51,12 @@ The list of currency codes was taken from https://en.wikipedia.org/wiki/ISO_4217
 The MIT License.
 
 See [LICENSE](https://github.com/xsolla/currency-format/blob/master/LICENSE)
+
+## Support
+
+- **GitHub Issues:** [github.com/xsolla/currency-format/issues](https://github.com/xsolla/currency-format/issues)
+- **Developer portal:** [developers.xsolla.com](https://developers.xsolla.com)
+
+## License
+
+MIT License. See [LICENSE](./LICENSE).
